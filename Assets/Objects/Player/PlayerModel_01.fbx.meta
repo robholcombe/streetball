@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: d235fa54a2a63e449b23ee6b43f65011
+timeCreated: 1507872892
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: chest
+    100002: clavicle_L
+    100004: clavicle_R
+    100006: eye_L
+    100008: eye_R
+    100010: f_index_01_L
+    100012: f_index_01_R
+    100014: f_ring_01_L
+    100016: f_ring_01_R
+    100018: foot_L
+    100020: foot_R
+    100022: forearm_L
+    100024: forearm_R
+    100026: hand_L
+    100028: hand_R
+    100030: head
+    100032: hips
+    100034: jaw
+    100036: Lamp
+    100038: neck
+    100040: //RootNode
+    100042: shin_L
+    100044: shin_R
+    100046: spine
+    100048: thigh_L
+    100050: thigh_R
+    100052: thumb_02_L
+    100054: thumb_02_R
+    100056: thumb_03_L
+    100058: thumb_03_R
+    100060: toe_L
+    100062: toe_R
+    100064: upper_arm_L
+    100066: upper_arm_R
+    100068: v1
+    100070: v1_afro01
+    100072: v1_Body
+    100074: v1_Eyebrow001
+    100076: v1_jeans01
+    100078: v1_Low-Poly
+    100080: v1_Teeth_Base
+    100082: v1_tongue01
+    100084: v1_tshirt02
+    400000: chest
+    400002: clavicle_L
+    400004: clavicle_R
+    400006: eye_L
+    400008: eye_R
+    400010: f_index_01_L
+    400012: f_index_01_R
+    400014: f_ring_01_L
+    400016: f_ring_01_R
+    400018: foot_L
+    400020: foot_R
+    400022: forearm_L
+    400024: forearm_R
+    400026: hand_L
+    400028: hand_R
+    400030: head
+    400032: hips
+    400034: jaw
+    400036: Lamp
+    400038: neck
+    400040: //RootNode
+    400042: shin_L
+    400044: shin_R
+    400046: spine
+    400048: thigh_L
+    400050: thigh_R
+    400052: thumb_02_L
+    400054: thumb_02_R
+    400056: thumb_03_L
+    400058: thumb_03_R
+    400060: toe_L
+    400062: toe_R
+    400064: upper_arm_L
+    400066: upper_arm_R
+    400068: v1
+    400070: v1_afro01
+    400072: v1_Body
+    400074: v1_Eyebrow001
+    400076: v1_jeans01
+    400078: v1_Low-Poly
+    400080: v1_Teeth_Base
+    400082: v1_tongue01
+    400084: v1_tshirt02
+    4300000: v1_tongue01
+    4300002: v1_Teeth_Base
+    4300004: v1_Eyebrow001
+    4300006: v1_Low-Poly
+    4300008: v1_afro01
+    4300010: v1_tshirt02
+    4300012: v1_jeans01
+    4300014: v1_Body
+    7400000: Default Take
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: v1_afro01
+    13700002: v1_Body
+    13700004: v1_Eyebrow001
+    13700006: v1_jeans01
+    13700008: v1_Low-Poly
+    13700010: v1_Teeth_Base
+    13700012: v1_tongue01
+    13700014: v1_tshirt02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v1_Eyebrow001_eyebrow001
+    second: {fileID: 2100000, guid: a5279849f7b3f4f4588e80416a808277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v1_Low-Poly_Eye_brown
+    second: {fileID: 2100000, guid: 19f62599857a36741a0913fe949034b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v1_Skin
+    second: {fileID: 2100000, guid: e87928a1137c6ca438ed82b4535e6d01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v1_Teeth_Base_teethMaterial
+    second: {fileID: 2100000, guid: c8b76f303e3dc1e4a8088398c8c02f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v1_afro01_afro01
+    second: {fileID: 2100000, guid: 43d2f9f37dfbab44a9807728e35830de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v1_jeans01_short01Material
+    second: {fileID: 2100000, guid: 16be3586d9325b044a0fca470f3bb5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v1_tongue01_tongue01Material
+    second: {fileID: 2100000, guid: 200d1eb3088dee04b88546ad9260c70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: v1_tshirt02_tshirt02Material
+    second: {fileID: 2100000, guid: 6e0427c04b6af3147803cbb1ab8ac455, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
