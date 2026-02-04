@@ -1,8 +1,12 @@
 # Project README #
 ![Status: Abanboned](https://img.shields.io/badge/Status-Abandoned-red?labelColor=lightgrey&style=flat)
 
-Note this has not been tested with recent versions and would be missing model assets (LFS) so consider this code-only repo.
+
+Note: Abandoned since early 2017.
+
+Has not been tested with recent versions and would be missing model assets (LFS), so consider this a code-only repo for reference only.
 Useful scripts: /Assets/Scripts/PlayerShoot.cs (trajectory physics script)
+
 
 ### Prerequisites ###
 
